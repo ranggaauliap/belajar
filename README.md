@@ -1,2 +1,2 @@
 # belajar
-Belajar GIT
+Belajar GIT and GITHUB
