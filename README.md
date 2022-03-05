@@ -1,2 +1,2 @@
 # belajar
-Belajara GIT
+Belajar GIT
