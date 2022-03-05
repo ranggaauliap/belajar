@@ -1,2 +1,3 @@
 Belajar GIT and GITHUB V1.0.0
 Belajar GIT and GITHUB V1.0.1 mengganti nama file
+Belajar GIt and GITHUB V1.0.2 mengganti nama file
