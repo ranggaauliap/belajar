@@ -1,5 +1,5 @@
-Belajar GIT and GITHUB - Branch V1.0.0
-Belajar GIT and GITHUB - Branch V1.0.1 Mengganti Nama File
-Belajar GIT and GITHUB - Branch V1.0.1 Tambah Data File
-Belajar GIT and GITHUB - Branch V1.1.1 Belajar 2 Branch secara langsung
-Belajar GIT and GITHUB - Branch V1.1.2 Belajar 2 Branch secara langsung oke
+Belajar GIT and GITHUB - Branch V1.1.0
+Belajar GIT and GITHUB - Branch V1.1.1 Mengganti Nama File
+Belajar GIT and GITHUB - Branch V1.1.2 Tambah Data File
+Belajar GIT and GITHUB - Branch V1.1.3 Belajar 2 Branch secara langsung
+Belajar GIT and GITHUB - Branch V1.1.4 Belajar 2 Branch secara langsung oke
